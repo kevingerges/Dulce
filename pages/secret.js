@@ -11,10 +11,10 @@ const Secret = () => {
   
   return (
     <div className={styles.secret}>
-      <img className={styles.secretChild} alt="" src="/ellipse-1.svg" />
-      <img className={styles.secretItem} alt="" src="/vector-1.svg" />
+      <img className={styles.secretChild} alt="" src="ellipse-1.svg" />
+      <img className={styles.secretItem} alt="" src="vector-1.svg" />
       <img className={styles.haveAGoodCupOfMatcha} alt="" />
-      <img className={styles.secretInner} alt="" src="/ellipse-10.svg" />
+      <img className={styles.secretInner} alt="" src="ellipse-10.svg" />
       <div className={styles.rectangleParent}>
         <div className={styles.instanceChild} />
         <div className={styles.contactUs} onClick={handleContactUsClick}>
@@ -42,12 +42,12 @@ const Secret = () => {
         <p className={styles.p}>&nbsp;</p>
         <p className={styles.p}>&nbsp;</p>
       </b>
-      <img className={styles.secretChild1} alt="" src="/vector-2.svg" />
-      <img className={styles.secretChild2} alt="" src="/vector-1.svg" />
-      <img className={styles.ellipseIcon} alt="" src="/ellipse-11.svg" />
-      <img className={styles.secretChild3} alt="" src="/vector-2.svg" />
-      <img className={styles.secretChild4} alt="" src="/vector-1.svg" />
-      <img className={styles.secretChild5} alt="" src="/ellipse-12.svg" />
+      <img className={styles.secretChild1} alt="" src="vector-2.svg" />
+      <img className={styles.secretChild2} alt="" src="vector-1.svg" />
+      <img className={styles.ellipseIcon} alt="" src="ellipse-11.svg" />
+      <img className={styles.secretChild3} alt="" src="vector-2.svg" />
+      <img className={styles.secretChild4} alt="" src="vector-1.svg" />
+      <img className={styles.secretChild5} alt="" src="ellipse-12.svg" />
     </div>
   );
 };

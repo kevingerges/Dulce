@@ -78,20 +78,20 @@ const Contact = () => {
       <div className={styles.contactUs} onClick={handleContactUsClick}>
         Contact US
       </div>
-      <img className={styles.contactChild} alt="" src="/vector-1.svg" />
-      <img className={styles.contactItem} alt="" src="/vector-21.svg" />
+      <img className={styles.contactChild} alt="" src="vector-1.svg" />
+      <img className={styles.contactItem} alt="" src="vector-21.svg" />
       <img className={styles.haveAGoodCupOfMatcha} alt="" />
-      <img className={styles.contactInner} alt="" src="/ellipse-10.svg" />
+      <img className={styles.contactInner} alt="" src="ellipse-10.svg" />
       <a href="https://www.instagram.com/cafedulcela/" target="_blank" rel=" ">
-        <img class={styles.groupIcon} alt="" src="/group-1.svg"/>
+        <img class={styles.groupIcon} alt="" src="group-1.svg"/>
       </a>
 
       <a href="https://www.linkedin.com/company/cafe-dulce/about/" target="_blank" rel=" ">
-        <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+        <img className={styles.vectorIcon} alt="" src="vector.svg" />
       </a>
     
   <a href="tel:+12135365609" target="_blank" className={styles.phoneNumber}>
-  <img className={styles.vectorIcon1} alt="" src="/vector1.svg" />
+  <img className={styles.vectorIcon1} alt="" src="vector1.svg" />
   </a>
 
 
@@ -134,8 +134,8 @@ const Contact = () => {
         </div>
       </div>
       <div className={styles.rectangleGroup}>
-        <img className={styles.instapic} alt="" src="/Screenshot 2023-04-23 at 3.27.02 PM.png" />
-        <img className={styles.facebookpic} alt="" src="/Screenshot 2023-04-23 at 3.27.22 PM.png" />
+        <img className={styles.instapic} alt="" src="Screenshot 2023-04-23 at 3.27.02 PM.png" />
+        <img className={styles.facebookpic} alt="" src="Screenshot 2023-04-23 at 3.27.22 PM.png" />
   <div className={styles.openStatus}>
     {isOpen() ? (
       <span className={styles.open}>Open</span>
