@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-kodchasan: Kodchasan;
+  --font-sf-pro-display: "SF Pro Display";
+  --font-abel: Abel;
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-darkseagreen: #b5daac;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkolivegreen: #54622c;
+  --color-snow: #fff6f6;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
+

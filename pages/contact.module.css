@@ -1,0 +1,240 @@
+.html, .body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.dulce {
+  position: absolute;
+  top: 28px;
+  left: 70px;
+  font-size: var(--font-size-11xl);
+  cursor: pointer;
+}
+.home {
+  position: absolute;
+  top: 28px;
+  left: 408px;
+}
+.products {
+  position: absolute;
+  top: 28px;
+  left: 566px;
+  color: var(--color-snow);
+}
+.gallery {
+  position: absolute;
+  top: 28px;
+  left: 754px;
+}
+.contactUs {
+  position: absolute;
+  top: 28px;
+  left: 896px;
+  color: var(--color-black);
+}
+.contactChild {
+  position: absolute;
+  top: 976.5px;
+  left: 612.5px;
+  width: 227.14px;
+  height: 3px;
+}
+.contactItem {
+  position: absolute;
+  top: 476px;
+  left: 717.5px;
+  width: 3px;
+  height: 377.5px;
+}
+.haveAGoodCupOfMatcha {
+  position: absolute;
+  height: 0.93%;
+  width: 16.72%;
+  top: 95.07%;
+  right: 31.32%;
+  bottom: 4%;
+  left: 51.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contactInner {
+  position: absolute;
+  top: 833.36px;
+  left: 1381.92px;
+  width: 58.08px;
+  height: 177.67px;
+}
+.groupIcon {
+  position: absolute;
+  height: 2.34%;
+  width: 1.67%;
+  top: 2.35%;
+  right: 12.36%;
+  bottom: 95.31%;
+  left: 85.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.34%;
+  width: 1.67%;
+  top: 2.35%;
+  right: 8.61%;
+  bottom: 95.31%;
+  left: 89.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 2.35%;
+  width: 1.67%;
+  top: 2.34%;
+  right: 4.86%;
+  bottom: 95.31%;
+  left: 93.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.weAreLocated {
+  margin: 0;
+}
+.span {
+  text-decoration: underline;
+}
+.a {
+  color: inherit;
+}
+.weAreLocatedContainer {
+  position: absolute;
+  top: 164px;
+  left: 59px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.03em;
+  line-height: 107.3%;
+  display: inline-block;
+  font-family: var(--font-kodchasan);
+  color: inherit;
+  white-space: pre-wrap;
+  width: 810px;
+  height: 127px;
+}
+.instanceChild {
+  position: absolute;
+  height: 81%;
+  width: 96%;
+  top: 14%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkolivegreen);
+}
+.seeMenu {
+ position: absolute;
+    top: -9px;
+    left: -377px;
+    letter-spacing: 0.03em;
+    line-height: 107.3%;
+}
+.chevron {
+  position: absolute;
+  top: 11px;
+  left: 213px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-sf-pro-display);
+}
+.rectangleParent {
+  position: absolute;
+  top: 904px;
+  left: 1084px;
+  width: 264px;
+  height: 70px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kodchasan);
+}
+.rectangleGroup {
+  position: absolute;
+  top: 165px;
+  left: 1084px;
+  width: 264px;
+  height: 70px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kodchasan);
+}
+.contact {
+  position: relative;
+  background-color: var(--color-darkseagreen);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+
+.home,
+.products,
+.gallery,
+.contactUs {
+  cursor: pointer;
+}
+
+.open {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    text-align: center;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-darkolivegreen);
+    color: aquamarine;
+}
+
+
+.closed {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -7%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkolivegreen);
+  text-align: center;
+  color: red;
+}
+
+.instapic{
+  position: absolute;
+  top: 463%;
+  left: -1044px;
+  width: 209%;
+  height: 604%;
+  object-fit: cover;
+  border-radius: var(--br-3xs);
+}
+
+.facebookpic{
+  position: absolute;
+  top: 463%;
+  left: -276px;
+  /* width: 209px; */
+  width: 197%;
+  height: 594%;
+  object-fit: cover;
+  border-radius: var(--br-3xs);
+}

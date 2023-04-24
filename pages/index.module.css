@@ -1,0 +1,285 @@
+.dulce {
+  position: absolute;
+  top: 28px;
+  left: 70px;
+  font-size: var(--font-size-11xl);
+}
+.dulce1 {
+  position: absolute;
+  top: 142px;
+  left: 161px;
+  font-size: 44px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 226px;
+  height: 117px;
+  mix-blend-mode: darken;
+}
+.homeChild {
+  position: absolute;
+  top: 185.17px;
+  left: 808.34px;
+  width: 585.68px;
+  height: 651.33px;
+}
+.supple1Icon {
+  position: absolute;
+  top: 80px;
+  left: 896px;
+  border-radius: 177px;
+  width: 354px;
+  height: 757px;
+  object-fit: cover;
+}
+.homeItem {
+  position: absolute;
+  top: 145.4px;
+  left: 946.58px;
+  width: 227.14px;
+  height: 3px;
+}
+.homeInner {
+  position: absolute;
+  top: 143.89px;
+  left: 910.97px;
+  width: 35.58px;
+  height: 318.01px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 931px;
+  left: 70px;
+  width: 22px;
+  height: 23px;
+}
+.homeChild1 {
+  position: absolute;
+  top: 931px;
+  left: 104px;
+  width: 23px;
+  height: 23px;
+}
+.homeChild2 {
+  position: absolute;
+  top: 931px;
+  left: 139px;
+  width: 22px;
+  height: 23px;
+}
+.ourCozyCoffee {
+  position: absolute;
+  top: 268px;
+  left: 70px;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  line-height: 107.3%;
+  display: inline-block;
+  font-family: var(--font-kodchasan);
+  width: 604px;
+  height: 127px;
+}
+.atDulceStay {
+  margin: 0;
+}
+.atDulceStayContainer {
+  position: absolute;
+  top: 387px;
+  left: 67px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.03em;
+  line-height: 107.3%;
+  display: inline-block;
+  font-family: var(--font-kodchasan);
+  width: 598px;
+}
+.componentChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkolivegreen);
+}
+.seeMenu {
+  position: absolute;
+  top: -15px;
+  left: -545px;
+  letter-spacing: 0.03em;
+  line-height: 107.3%;
+}
+.chevron {
+  position: absolute;
+  top: 11px;
+  left: 213px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-sf-pro-display);
+}
+.rectangleParent {
+  position: absolute;
+  top: 759px;
+  left: 70px;
+  width: 264px;
+  height: 70px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kodchasan);
+}
+.greatEnergyIcon {
+  position: absolute;
+  height: 23.15%;
+  width: 7.09%;
+  top: 52.58%;
+  right: 41.8%;
+  bottom: 24.27%;
+  left: 40.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homeChild3 {
+  position: absolute;
+  top: 160px;
+  left: 648px;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.homeChild4 {
+  position: absolute;
+  top: 333px;
+  left: 627px;
+  width: 164px;
+  height: 164px;
+  object-fit: cover;
+}
+.haveAGoodCupOfMatcha {
+  position: absolute;
+  height: 0.93%;
+  width: 16.72%;
+  top: 95.07%;
+  right: 31.32%;
+  bottom: 4%;
+  left: 51.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homeChild5 {
+  position: absolute;
+  top: 183.12px;
+  left: 673.93px;
+  width: 159.07px;
+  height: 154.02px;
+}
+.homeChild6 {
+  position: absolute;
+  top: 94.29px;
+  left: 0px;
+  width: 68.61px;
+  height: 177.67px;
+}
+.homeChild7 {
+  position: absolute;
+  top: 833.36px;
+  left: 1381.92px;
+  width: 58.08px;
+  height: 177.67px;
+}
+.homeChild8 {
+  position: absolute;
+  top: 348.54px;
+  left: 647.29px;
+  width: 94.47px;
+  height: 105.93px;
+}
+
+.vectorIcon {
+  position: absolute;
+  height: 2.34%;
+  width: 1.67%;
+  top: 2.35%;
+  right: 8.61%;
+  bottom: 95.31%;
+  left: 89.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 2.35%;
+  width: 1.67%;
+  top: 2.34%;
+  right: 4.86%;
+  bottom: 95.31%;
+  left: 93.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contactUs {
+  position: absolute;
+  top: 33px;
+  left: 912px;
+}
+.gallery {
+  position: absolute;
+  top: 33px;
+  left: 770px;
+  color: var(--color-snow);
+}
+.home1 {
+  position: absolute;
+  top: 33px;
+  left: 424px;
+  color: var(--color-black);
+}
+.menu {
+  position: absolute;
+  top: 33px;
+  left: 579px;
+  color: var(--color-snow);
+}
+.home {
+  position: relative;
+  background-color: var(--color-darkseagreen);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+
+.home1,
+.menu,
+.gallery,
+.contactUs {
+  cursor: pointer; 
+}
+
+.groupIcon {
+  position: absolute;
+  height: 2.34%;
+  width: 1.67%;
+  top: 2.35%;
+  right: 12.36%;
+  bottom: 95.31%;
+  left: 85.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.note{
+     position: absolute;
+    top: 85px;
+    left: 68px;
+    font-weight: bolder;
+    color: #000000;
+    font-style: italic;
+}
